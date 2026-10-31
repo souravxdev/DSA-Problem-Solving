@@ -3,4 +3,4 @@ function square(num) {
 }
 
 let result = square(3);
-console.log(result);
+console.log("The square is: ", result); // The square is:  9

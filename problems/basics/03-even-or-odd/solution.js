@@ -1,10 +1,10 @@
 function evenOdd(num) {
   if (num % 2 === 0) {
-    console.log("Even");
+    console.log("Even Number");
   } else {
-    console.log("Odd");
+    console.log("Odd Number");
   }
 }
 
-evenOdd(2);
-evenOdd(33);
+evenOdd(2); // Even Number
+evenOdd(33); // Odd Number

@@ -8,6 +8,6 @@ function eligible(age) {
   }
 }
 
-eligible(-1);
-eligible(10);
-eligible(20);
+eligible(-1); // Invalid Input
+eligible(10); // Not eligible to Vote
+eligible(20); // Eligible to Vote

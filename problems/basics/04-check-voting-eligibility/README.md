@@ -26,5 +26,6 @@ Use an `if / else if / else` chain:
 ## Run
 
 ```bash
-node solution.js
+npx tsx solution.ts   # TypeScript
+node solution.js      # JavaScript
 ```

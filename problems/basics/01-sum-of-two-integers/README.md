@@ -22,5 +22,6 @@ Define a function that takes two numbers, add them and print the result.
 ## Run
 
 ```bash
-node solution.js
+npx tsx solution.ts   # TypeScript
+node solution.js      # JavaScript
 ```

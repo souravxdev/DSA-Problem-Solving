@@ -3,4 +3,4 @@ function sum(a, b) {
   console.log(add);
 }
 
-sum(5, 3);
+sum(5, 3); // 8

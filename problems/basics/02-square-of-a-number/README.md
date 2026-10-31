@@ -22,5 +22,6 @@ Multiply the number by itself and **return** the result instead of printing it i
 ## Run
 
 ```bash
-node solution.js
+npx tsx solution.ts   # TypeScript
+node solution.js      # JavaScript
 ```

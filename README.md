@@ -2,8 +2,9 @@
 
 # DSA & Problem Solving
 
-My daily journey of learning **Data Structures, Algorithms and Problem Solving** with JavaScript.
+My daily journey of learning **Data Structures, Algorithms and Problem Solving** with TypeScript and JavaScript.
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
@@ -32,12 +33,12 @@ See the day-by-day log in [PROGRESS.md](PROGRESS.md).
 
 ### Basics
 
-| # | Problem | Solution | Difficulty |
-|---|---------|----------|:----------:|
-| 01 | [Sum of Two Integers](problems/basics/01-sum-of-two-integers) | [JavaScript](problems/basics/01-sum-of-two-integers/solution.js) | Easy |
-| 02 | [Square of a Number](problems/basics/02-square-of-a-number) | [JavaScript](problems/basics/02-square-of-a-number/solution.js) | Easy |
-| 03 | [Even or Odd](problems/basics/03-even-or-odd) | [JavaScript](problems/basics/03-even-or-odd/solution.js) | Easy |
-| 04 | [Check Voting Eligibility](problems/basics/04-check-voting-eligibility) | [JavaScript](problems/basics/04-check-voting-eligibility/solution.js) | Easy |
+| # | Problem | Solutions | Difficulty |
+|---|---------|-----------|:----------:|
+| 01 | [Sum of Two Integers](problems/basics/01-sum-of-two-integers) | [TypeScript](problems/basics/01-sum-of-two-integers/solution.ts) · [JavaScript](problems/basics/01-sum-of-two-integers/solution.js) | Easy |
+| 02 | [Square of a Number](problems/basics/02-square-of-a-number) | [TypeScript](problems/basics/02-square-of-a-number/solution.ts) · [JavaScript](problems/basics/02-square-of-a-number/solution.js) | Easy |
+| 03 | [Even or Odd](problems/basics/03-even-or-odd) | [TypeScript](problems/basics/03-even-or-odd/solution.ts) · [JavaScript](problems/basics/03-even-or-odd/solution.js) | Easy |
+| 04 | [Check Voting Eligibility](problems/basics/04-check-voting-eligibility) | [TypeScript](problems/basics/04-check-voting-eligibility/solution.ts) · [JavaScript](problems/basics/04-check-voting-eligibility/solution.js) | Easy |
 
 ## Repository Structure
 
@@ -48,9 +49,12 @@ See the day-by-day log in [PROGRESS.md](PROGRESS.md).
 │       └── 01-sum-of-two-integers/
 │           ├── README.md     # Problem, approach, complexity
 │           ├── problem.png   # Problem statement
-│           └── solution.js   # Solution
+│           ├── solution.ts   # TypeScript solution
+│           └── solution.js   # JavaScript solution
 ├── notes/               # Concepts and learnings
-└── PROGRESS.md          # Daily log
+├── PROGRESS.md          # Daily log
+├── package.json
+└── tsconfig.json        # Strict TypeScript config
 ```
 
 ## Running a Solution
@@ -60,7 +64,16 @@ Requires [Node.js](https://nodejs.org).
 ```bash
 git clone https://github.com/souravxdev/DSA-Problem-Solving.git
 cd DSA-Problem-Solving
+npm install
+
+# TypeScript
+npm run solve problems/basics/01-sum-of-two-integers/solution.ts
+
+# JavaScript
 node problems/basics/01-sum-of-two-integers/solution.js
+
+# Type-check every solution
+npm run typecheck
 ```
 
 ## Connect

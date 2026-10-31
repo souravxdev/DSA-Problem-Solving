@@ -22,5 +22,6 @@ Use the modulo operator: if `num % 2 === 0` the number is even, otherwise it is 
 ## Run
 
 ```bash
-node solution.js
+npx tsx solution.ts   # TypeScript
+node solution.js      # JavaScript
 ```

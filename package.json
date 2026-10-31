@@ -1,0 +1,18 @@
+{
+  "name": "dsa-problem-solving",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daily DSA and problem-solving practice in TypeScript and JavaScript.",
+  "type": "module",
+  "scripts": {
+    "solve": "tsx",
+    "typecheck": "tsc"
+  },
+  "author": "souravxdev",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
