@@ -4,3 +4,4 @@ LeetCode problems I've solved, grouped by topic. Each problem folder is named af
 
 | # | Problem | Topic | Solutions | Difficulty |
 |---|---------|-------|-----------|:----------:|
+| 1464 | [Maximum Product of Two Elements in an Array](arrays/1464-maximum-product-of-two-elements-in-an-array) | Arrays | [TS](arrays/1464-maximum-product-of-two-elements-in-an-array/solution.ts) · [JS](arrays/1464-maximum-product-of-two-elements-in-an-array/solution.js) | Easy |

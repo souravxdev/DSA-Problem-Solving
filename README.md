@@ -8,7 +8,7 @@ My daily journey of learning **Data Structures, Algorithms and Problem Solving**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-10-blue?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-11-blue?style=flat-square)
 ![Days](https://img.shields.io/badge/Day-3-orange?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/souravxdev/DSA-Problem-Solving?style=flat-square)
 
@@ -26,8 +26,8 @@ I practise problem solving every day and document each problem with its statemen
 |-------|:------:|
 | [Basics](problems/basics) | 4 |
 | [Arrays](problems/arrays) | 6 |
-| [LeetCode](leetcode) | 0 |
-| **Total** | **10** |
+| [LeetCode](leetcode) | 1 |
+| **Total** | **11** |
 
 See the day-by-day log in [PROGRESS.md](PROGRESS.md).
 
@@ -55,7 +55,11 @@ See the day-by-day log in [PROGRESS.md](PROGRESS.md).
 
 ### LeetCode
 
-See [leetcode/README.md](leetcode/README.md). First problems coming soon.
+All LeetCode problems: [leetcode/README.md](leetcode/README.md)
+
+| # | Problem | Topic | Solutions | Difficulty |
+|---|---------|-------|-----------|:----------:|
+| 1464 | [Maximum Product of Two Elements in an Array](leetcode/arrays/1464-maximum-product-of-two-elements-in-an-array) | Arrays | [TypeScript](leetcode/arrays/1464-maximum-product-of-two-elements-in-an-array/solution.ts) · [JavaScript](leetcode/arrays/1464-maximum-product-of-two-elements-in-an-array/solution.js) | Easy |
 
 ## Repository Structure
 
