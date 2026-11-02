@@ -26,6 +26,7 @@ I practise problem solving every day and document each problem with its statemen
 |-------|:------:|
 | [Basics](problems/basics) | 4 |
 | [Arrays](problems/arrays) | 6 |
+| [LeetCode](leetcode) | 0 |
 | **Total** | **10** |
 
 See the day-by-day log in [PROGRESS.md](PROGRESS.md).
@@ -52,6 +53,10 @@ See the day-by-day log in [PROGRESS.md](PROGRESS.md).
 | 05 | [Smallest Number in an Array](problems/arrays/05-smallest-number-in-an-array) | [TypeScript](problems/arrays/05-smallest-number-in-an-array/solution.ts) · [JavaScript](problems/arrays/05-smallest-number-in-an-array/solution.js) | Easy |
 | 06 | [Second Largest Number in an Array](problems/arrays/06-second-largest-number-in-an-array) | [TypeScript](problems/arrays/06-second-largest-number-in-an-array/solution.ts) · [JavaScript](problems/arrays/06-second-largest-number-in-an-array/solution.js) | Easy |
 
+### LeetCode
+
+See [leetcode/README.md](leetcode/README.md). First problems coming soon.
+
 ## Repository Structure
 
 ```
@@ -63,6 +68,12 @@ See the day-by-day log in [PROGRESS.md](PROGRESS.md).
 │           ├── problem.png   # Problem statement
 │           ├── solution.ts   # TypeScript solution
 │           └── solution.js   # JavaScript solution
+├── leetcode/            # LeetCode problems grouped by topic
+│   └── arrays/
+│       └── 0414-third-maximum-number/
+│           ├── README.md     # Link, summary, approach, complexity
+│           ├── solution.ts
+│           └── solution.js
 ├── notes/               # Concepts and learnings
 ├── PROGRESS.md          # Daily log
 ├── package.json
