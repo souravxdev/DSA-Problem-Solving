@@ -8,8 +8,8 @@ My daily journey of learning **Data Structures, Algorithms and Problem Solving**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-9-blue?style=flat-square)
-![Days](https://img.shields.io/badge/Day-2-orange?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-10-blue?style=flat-square)
+![Days](https://img.shields.io/badge/Day-3-orange?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/souravxdev/DSA-Problem-Solving?style=flat-square)
 
 </div>
@@ -25,8 +25,8 @@ I practise problem solving every day and document each problem with its statemen
 | Topic | Solved |
 |-------|:------:|
 | [Basics](problems/basics) | 4 |
-| [Arrays](problems/arrays) | 5 |
-| **Total** | **9** |
+| [Arrays](problems/arrays) | 6 |
+| **Total** | **10** |
 
 See the day-by-day log in [PROGRESS.md](PROGRESS.md).
 
@@ -50,6 +50,7 @@ See the day-by-day log in [PROGRESS.md](PROGRESS.md).
 | 03 | [Count Negative Numbers](problems/arrays/03-count-negative-numbers) | [TypeScript](problems/arrays/03-count-negative-numbers/solution.ts) · [JavaScript](problems/arrays/03-count-negative-numbers/solution.js) | Easy |
 | 04 | [Largest Number in an Array](problems/arrays/04-largest-number-in-an-array) | [TypeScript](problems/arrays/04-largest-number-in-an-array/solution.ts) · [JavaScript](problems/arrays/04-largest-number-in-an-array/solution.js) | Easy |
 | 05 | [Smallest Number in an Array](problems/arrays/05-smallest-number-in-an-array) | [TypeScript](problems/arrays/05-smallest-number-in-an-array/solution.ts) · [JavaScript](problems/arrays/05-smallest-number-in-an-array/solution.js) | Easy |
+| 06 | [Second Largest Number in an Array](problems/arrays/06-second-largest-number-in-an-array) | [TypeScript](problems/arrays/06-second-largest-number-in-an-array/solution.ts) · [JavaScript](problems/arrays/06-second-largest-number-in-an-array/solution.js) | Easy |
 
 ## Repository Structure
 
