@@ -8,8 +8,8 @@ My daily journey of learning **Data Structures, Algorithms and Problem Solving**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-12-blue?style=flat-square)
-![Days](https://img.shields.io/badge/Day-4-orange?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-13-blue?style=flat-square)
+![Days](https://img.shields.io/badge/Day-5-orange?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/souravxdev/DSA-Problem-Solving?style=flat-square)
 
 </div>
@@ -24,10 +24,10 @@ I practise problem solving every day and document each problem with its statemen
 
 | Topic | Solved |
 |-------|:------:|
-| [Basics](problems/basics) | 4 |
+| [Basics](problems/basics) | 5 |
 | [Arrays](problems/arrays) | 6 |
 | [LeetCode](leetcode) | 2 |
-| **Total** | **12** |
+| **Total** | **13** |
 
 See the day-by-day log in [PROGRESS.md](PROGRESS.md).
 
@@ -41,6 +41,7 @@ See the day-by-day log in [PROGRESS.md](PROGRESS.md).
 | 02 | [Square of a Number](problems/basics/02-square-of-a-number) | [TypeScript](problems/basics/02-square-of-a-number/solution.ts) · [JavaScript](problems/basics/02-square-of-a-number/solution.js) | Easy |
 | 03 | [Even or Odd](problems/basics/03-even-or-odd) | [TypeScript](problems/basics/03-even-or-odd/solution.ts) · [JavaScript](problems/basics/03-even-or-odd/solution.js) | Easy |
 | 04 | [Check Voting Eligibility](problems/basics/04-check-voting-eligibility) | [TypeScript](problems/basics/04-check-voting-eligibility/solution.ts) · [JavaScript](problems/basics/04-check-voting-eligibility/solution.js) | Easy |
+| 05 | [Nested Loop Patterns](problems/basics/05-nested-loop-patterns) | [TypeScript](problems/basics/05-nested-loop-patterns/solution.ts) · [JavaScript](problems/basics/05-nested-loop-patterns) (6 files) | Easy |
 
 ### Arrays
 

@@ -6,3 +6,4 @@
 | 2 | 2026-11-01 | Started [arrays](problems/arrays): print all even numbers in an array, search element in an array (linear search), count negative numbers, largest and smallest number in an array |
 | 3 | 2026-11-02 | [Arrays](problems/arrays): second largest number in an array (distinct values, corner cases). LeetCode 1464 Maximum Product of Two Elements in an Array |
 | 4 | 2026-11-03 | LeetCode 1512 Number of Good Pairs (nested loops) |
+| 5 | 2026-11-04 | [Basics](problems/basics): 6 nested loop patterns (full grid, triangles, countdowns, shrinking rows) |
