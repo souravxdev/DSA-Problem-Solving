@@ -8,7 +8,7 @@ My daily journey of learning **Data Structures, Algorithms and Problem Solving**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-13-blue?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-14-blue?style=flat-square)
 ![Days](https://img.shields.io/badge/Day-5-orange?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/souravxdev/DSA-Problem-Solving?style=flat-square)
 
@@ -26,8 +26,8 @@ I practise problem solving every day and document each problem with its statemen
 |-------|:------:|
 | [Basics](problems/basics) | 5 |
 | [Arrays](problems/arrays) | 6 |
-| [LeetCode](leetcode) | 2 |
-| **Total** | **13** |
+| [LeetCode](leetcode) | 3 |
+| **Total** | **14** |
 
 See the day-by-day log in [PROGRESS.md](PROGRESS.md).
 
@@ -60,6 +60,7 @@ All LeetCode problems: [leetcode/README.md](leetcode/README.md)
 
 | # | Problem | Topic | Solutions | Difficulty |
 |---|---------|-------|-----------|:----------:|
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](leetcode/arrays/1365-how-many-numbers-are-smaller-than-the-current-number) | Arrays | [TypeScript](leetcode/arrays/1365-how-many-numbers-are-smaller-than-the-current-number/solution.ts) · [JavaScript](leetcode/arrays/1365-how-many-numbers-are-smaller-than-the-current-number/solution.js) | Easy |
 | 1464 | [Maximum Product of Two Elements in an Array](leetcode/arrays/1464-maximum-product-of-two-elements-in-an-array) | Arrays | [TypeScript](leetcode/arrays/1464-maximum-product-of-two-elements-in-an-array/solution.ts) · [JavaScript](leetcode/arrays/1464-maximum-product-of-two-elements-in-an-array/solution.js) | Easy |
 | 1512 | [Number of Good Pairs](leetcode/arrays/1512-number-of-good-pairs) | Arrays | [TypeScript](leetcode/arrays/1512-number-of-good-pairs/solution.ts) · [JavaScript](leetcode/arrays/1512-number-of-good-pairs/solution.js) | Easy |
 
