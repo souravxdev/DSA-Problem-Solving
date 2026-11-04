@@ -7,3 +7,4 @@
 | 03 | [Even or Odd](03-even-or-odd) | [TS](03-even-or-odd/solution.ts) · [JS](03-even-or-odd/solution.js) |
 | 04 | [Check Voting Eligibility](04-check-voting-eligibility) | [TS](04-check-voting-eligibility/solution.ts) · [JS](04-check-voting-eligibility/solution.js) |
 | 05 | [Nested Loop Patterns](05-nested-loop-patterns) | [TS](05-nested-loop-patterns/solution.ts) · [JS](05-nested-loop-patterns) (6 files) |
+| 06 | [Star Patterns](06-star-patterns) | [TS](06-star-patterns/solution.ts) · [JS](06-star-patterns) (8 files) |
