@@ -4,6 +4,7 @@ LeetCode problems I've solved, grouped by topic. Each problem folder is named af
 
 | # | Problem | Topic | Solutions | Difficulty |
 |---|---------|-------|-----------|:----------:|
+| 1295 | [Find Numbers with Even Number of Digits](arrays/1295-find-numbers-with-even-number-of-digits) | Arrays | [TS](arrays/1295-find-numbers-with-even-number-of-digits/solution.ts) · [JS](arrays/1295-find-numbers-with-even-number-of-digits/solution.js) | Easy |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](arrays/1351-count-negative-numbers-in-a-sorted-matrix) | Arrays | [TS](arrays/1351-count-negative-numbers-in-a-sorted-matrix/solution.ts) · [JS](arrays/1351-count-negative-numbers-in-a-sorted-matrix/solution.js) | Easy |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](arrays/1365-how-many-numbers-are-smaller-than-the-current-number) | Arrays | [TS](arrays/1365-how-many-numbers-are-smaller-than-the-current-number/solution.ts) · [JS](arrays/1365-how-many-numbers-are-smaller-than-the-current-number/solution.js) | Easy |
 | 1464 | [Maximum Product of Two Elements in an Array](arrays/1464-maximum-product-of-two-elements-in-an-array) | Arrays | [TS](arrays/1464-maximum-product-of-two-elements-in-an-array/solution.ts) · [JS](arrays/1464-maximum-product-of-two-elements-in-an-array/solution.js) | Easy |

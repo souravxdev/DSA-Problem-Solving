@@ -8,4 +8,4 @@
 | 4 | 2026-11-03 | LeetCode 1512 Number of Good Pairs (nested loops) |
 | 5 | 2026-11-04 | [Basics](problems/basics): 6 nested loop patterns (full grid, triangles, countdowns, shrinking rows). LeetCode 1365 How Many Numbers Are Smaller Than the Current Number |
 | 6 | 2026-11-05 | [Basics](problems/basics): 8 star and number patterns (triangles, right-aligned, alternating 1/0 with local vs global toggle). LeetCode 1351 Count Negative Numbers in a Sorted Matrix |
-| 7 | 2026-11-06 | Started [math](problems/math): count digits of an integer (while loop, divide by 10) |
+| 7 | 2026-11-06 | Started [math](problems/math): count digits of an integer (while loop, divide by 10). LeetCode 1295 Find Numbers with Even Number of Digits |
