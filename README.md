@@ -8,8 +8,8 @@ My daily journey of learning **Data Structures, Algorithms and Problem Solving**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-16-blue?style=flat-square)
-![Days](https://img.shields.io/badge/Day-6-orange?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-17-blue?style=flat-square)
+![Days](https://img.shields.io/badge/Day-7-orange?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/souravxdev/DSA-Problem-Solving?style=flat-square)
 
 </div>
@@ -26,8 +26,9 @@ I practise problem solving every day and document each problem with its statemen
 |-------|:------:|
 | [Basics](problems/basics) | 6 |
 | [Arrays](problems/arrays) | 6 |
+| [Math](problems/math) | 1 |
 | [LeetCode](leetcode) | 4 |
-| **Total** | **16** |
+| **Total** | **17** |
 
 See the day-by-day log in [PROGRESS.md](PROGRESS.md).
 
@@ -54,6 +55,12 @@ See the day-by-day log in [PROGRESS.md](PROGRESS.md).
 | 04 | [Largest Number in an Array](problems/arrays/04-largest-number-in-an-array) | [TypeScript](problems/arrays/04-largest-number-in-an-array/solution.ts) · [JavaScript](problems/arrays/04-largest-number-in-an-array/solution.js) | Easy |
 | 05 | [Smallest Number in an Array](problems/arrays/05-smallest-number-in-an-array) | [TypeScript](problems/arrays/05-smallest-number-in-an-array/solution.ts) · [JavaScript](problems/arrays/05-smallest-number-in-an-array/solution.js) | Easy |
 | 06 | [Second Largest Number in an Array](problems/arrays/06-second-largest-number-in-an-array) | [TypeScript](problems/arrays/06-second-largest-number-in-an-array/solution.ts) · [JavaScript](problems/arrays/06-second-largest-number-in-an-array/solution.js) | Easy |
+
+### Math
+
+| # | Problem | Solutions | Difficulty |
+|---|---------|-----------|:----------:|
+| 01 | [Count Digits](problems/math/01-count-digits) | [TypeScript](problems/math/01-count-digits/solution.ts) · [JavaScript](problems/math/01-count-digits/solution.js) | Easy |
 
 ### LeetCode
 
