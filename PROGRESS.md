@@ -9,4 +9,4 @@
 | 5 | 2026-11-04 | [Basics](problems/basics): 6 nested loop patterns (full grid, triangles, countdowns, shrinking rows). LeetCode 1365 How Many Numbers Are Smaller Than the Current Number |
 | 6 | 2026-11-05 | [Basics](problems/basics): 8 star and number patterns (triangles, right-aligned, alternating 1/0 with local vs global toggle). LeetCode 1351 Count Negative Numbers in a Sorted Matrix |
 | 7 | 2026-11-06 | Started [math](problems/math): count digits of an integer (while loop, divide by 10). LeetCode 1295 Find Numbers with Even Number of Digits |
-| 8 | 2026-11-07 | [Math](problems/math): palindrome number (reverse digits with % 10 and Math.floor), reverse integer (32-bit overflow check) |
+| 8 | 2026-11-07 | [Math](problems/math): palindrome number (reverse digits with % 10 and Math.floor), reverse integer (32-bit overflow check). LeetCode 9 Palindrome Number, LeetCode 7 Reverse Integer (first Medium) |
