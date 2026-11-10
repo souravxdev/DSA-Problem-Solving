@@ -8,7 +8,7 @@ My daily journey of learning **Data Structures, Algorithms and Problem Solving**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-22-blue?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-23-blue?style=flat-square)
 ![Days](https://img.shields.io/badge/Day-9-orange?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/souravxdev/DSA-Problem-Solving?style=flat-square)
 
@@ -27,8 +27,8 @@ I practise problem solving every day and document each problem with its statemen
 | [Basics](problems/basics) | 6 |
 | [Arrays](problems/arrays) | 6 |
 | [Math](problems/math) | 3 |
-| [LeetCode](leetcode) | 7 |
-| **Total** | **22** |
+| [LeetCode](leetcode) | 8 |
+| **Total** | **23** |
 
 See the day-by-day log in [PROGRESS.md](PROGRESS.md).
 
@@ -72,6 +72,7 @@ All LeetCode problems: [leetcode/README.md](leetcode/README.md)
 |---|---------|-------|-----------|:----------:|
 | 0007 | [Reverse Integer](leetcode/math/0007-reverse-integer) | Math | [TypeScript](leetcode/math/0007-reverse-integer/solution.ts) · [JavaScript](leetcode/math/0007-reverse-integer/solution.js) | Medium |
 | 0009 | [Palindrome Number](leetcode/math/0009-palindrome-number) | Math | [TypeScript](leetcode/math/0009-palindrome-number/solution.ts) · [JavaScript](leetcode/math/0009-palindrome-number/solution.js) | Easy |
+| 0704 | [Binary Search](leetcode/binary-search/0704-binary-search) | Binary Search | [TypeScript](leetcode/binary-search/0704-binary-search/solution.ts) · [JavaScript](leetcode/binary-search/0704-binary-search/solution.js) | Easy |
 | 1295 | [Find Numbers with Even Number of Digits](leetcode/arrays/1295-find-numbers-with-even-number-of-digits) | Arrays | [TypeScript](leetcode/arrays/1295-find-numbers-with-even-number-of-digits/solution.ts) · [JavaScript](leetcode/arrays/1295-find-numbers-with-even-number-of-digits/solution.js) | Easy |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](leetcode/arrays/1351-count-negative-numbers-in-a-sorted-matrix) | Arrays | [TypeScript](leetcode/arrays/1351-count-negative-numbers-in-a-sorted-matrix/solution.ts) · [JavaScript](leetcode/arrays/1351-count-negative-numbers-in-a-sorted-matrix/solution.js) | Easy |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](leetcode/arrays/1365-how-many-numbers-are-smaller-than-the-current-number) | Arrays | [TypeScript](leetcode/arrays/1365-how-many-numbers-are-smaller-than-the-current-number/solution.ts) · [JavaScript](leetcode/arrays/1365-how-many-numbers-are-smaller-than-the-current-number/solution.js) | Easy |
