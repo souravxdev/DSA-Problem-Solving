@@ -9,7 +9,7 @@ My daily journey of learning **Data Structures, Algorithms and Problem Solving**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-22-blue?style=flat-square)
-![Days](https://img.shields.io/badge/Day-8-orange?style=flat-square)
+![Days](https://img.shields.io/badge/Day-9-orange?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/souravxdev/DSA-Problem-Solving?style=flat-square)
 
 </div>
@@ -78,6 +78,14 @@ All LeetCode problems: [leetcode/README.md](leetcode/README.md)
 | 1464 | [Maximum Product of Two Elements in an Array](leetcode/arrays/1464-maximum-product-of-two-elements-in-an-array) | Arrays | [TypeScript](leetcode/arrays/1464-maximum-product-of-two-elements-in-an-array/solution.ts) · [JavaScript](leetcode/arrays/1464-maximum-product-of-two-elements-in-an-array/solution.js) | Easy |
 | 1512 | [Number of Good Pairs](leetcode/arrays/1512-number-of-good-pairs) | Arrays | [TypeScript](leetcode/arrays/1512-number-of-good-pairs/solution.ts) · [JavaScript](leetcode/arrays/1512-number-of-good-pairs/solution.js) | Easy |
 
+## Notes
+
+Concept notes from what I learn along the way.
+
+| # | Note | Topic |
+|---|------|-------|
+| 01 | [Time and Space Complexity](notes/fundamentals/01-time-and-space-complexity) | Fundamentals |
+
 ## Repository Structure
 
 ```
@@ -95,7 +103,12 @@ All LeetCode problems: [leetcode/README.md](leetcode/README.md)
 │           ├── README.md     # Link, summary, approach, complexity
 │           ├── solution.ts
 │           └── solution.js
-├── notes/               # Concepts and learnings
+├── notes/               # Concepts and learnings, grouped by topic
+│   └── fundamentals/
+│       └── 01-time-and-space-complexity/
+│           ├── README.md     # Concept, patterns, quiz recap
+│           ├── lesson/       # Lesson screenshots
+│           └── quiz/         # Quiz screenshots
 ├── PROGRESS.md          # Daily log
 ├── package.json
 └── tsconfig.json        # Strict TypeScript config
