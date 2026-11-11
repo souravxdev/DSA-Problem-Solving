@@ -8,8 +8,8 @@ My daily journey of learning **Data Structures, Algorithms and Problem Solving**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-23-blue?style=flat-square)
-![Days](https://img.shields.io/badge/Day-9-orange?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-24-blue?style=flat-square)
+![Days](https://img.shields.io/badge/Day-10-orange?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/souravxdev/DSA-Problem-Solving?style=flat-square)
 
 </div>
@@ -27,8 +27,9 @@ I practise problem solving every day and document each problem with its statemen
 | [Basics](problems/basics) | 6 |
 | [Arrays](problems/arrays) | 6 |
 | [Math](problems/math) | 3 |
+| [Two Pointers](problems/two-pointers) | 1 |
 | [LeetCode](leetcode) | 8 |
-| **Total** | **23** |
+| **Total** | **24** |
 
 See the day-by-day log in [PROGRESS.md](PROGRESS.md).
 
@@ -63,6 +64,12 @@ See the day-by-day log in [PROGRESS.md](PROGRESS.md).
 | 01 | [Count Digits](problems/math/01-count-digits) | [TypeScript](problems/math/01-count-digits/solution.ts) · [JavaScript](problems/math/01-count-digits/solution.js) | Easy |
 | 02 | [Palindrome Number](problems/math/02-palindrome-number) | [TypeScript](problems/math/02-palindrome-number/solution.ts) · [JavaScript](problems/math/02-palindrome-number/solution.js) | Easy |
 | 03 | [Reverse Integer](problems/math/03-reverse-integer) | [TypeScript](problems/math/03-reverse-integer/solution.ts) · [JavaScript](problems/math/03-reverse-integer/solution.js) | Easy |
+
+### Two Pointers
+
+| # | Problem | Solutions | Difficulty |
+|---|---------|-----------|:----------:|
+| 01 | [Remove Duplicates from Sorted Array](problems/two-pointers/01-remove-duplicates-from-sorted-array) | [TypeScript](problems/two-pointers/01-remove-duplicates-from-sorted-array/solution.ts) · [JavaScript](problems/two-pointers/01-remove-duplicates-from-sorted-array/solution.js) | Easy |
 
 ### LeetCode
 
