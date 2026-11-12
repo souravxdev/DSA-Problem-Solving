@@ -8,7 +8,7 @@ My daily journey of learning **Data Structures, Algorithms and Problem Solving**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-26-blue?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-27-blue?style=flat-square)
 ![Days](https://img.shields.io/badge/Day-10-orange?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/souravxdev/DSA-Problem-Solving?style=flat-square)
 
@@ -28,8 +28,8 @@ I practise problem solving every day and document each problem with its statemen
 | [Arrays](problems/arrays) | 6 |
 | [Math](problems/math) | 3 |
 | [Two Pointers](problems/two-pointers) | 2 |
-| [LeetCode](leetcode) | 9 |
-| **Total** | **26** |
+| [LeetCode](leetcode) | 10 |
+| **Total** | **27** |
 
 See the day-by-day log in [PROGRESS.md](PROGRESS.md).
 
@@ -81,6 +81,7 @@ All LeetCode problems: [leetcode/README.md](leetcode/README.md)
 | 0007 | [Reverse Integer](leetcode/math/0007-reverse-integer) | Math | [TypeScript](leetcode/math/0007-reverse-integer/solution.ts) · [JavaScript](leetcode/math/0007-reverse-integer/solution.js) | Medium |
 | 0009 | [Palindrome Number](leetcode/math/0009-palindrome-number) | Math | [TypeScript](leetcode/math/0009-palindrome-number/solution.ts) · [JavaScript](leetcode/math/0009-palindrome-number/solution.js) | Easy |
 | 0026 | [Remove Duplicates from Sorted Array](leetcode/two-pointers/0026-remove-duplicates-from-sorted-array) | Two Pointers | [TypeScript](leetcode/two-pointers/0026-remove-duplicates-from-sorted-array/solution.ts) · [JavaScript](leetcode/two-pointers/0026-remove-duplicates-from-sorted-array/solution.js) | Easy |
+| 0027 | [Remove Element](leetcode/two-pointers/0027-remove-element) | Two Pointers | [TypeScript](leetcode/two-pointers/0027-remove-element/solution.ts) · [JavaScript](leetcode/two-pointers/0027-remove-element/solution.js) | Easy |
 | 0704 | [Binary Search](leetcode/binary-search/0704-binary-search) | Binary Search | [TypeScript](leetcode/binary-search/0704-binary-search/solution.ts) · [JavaScript](leetcode/binary-search/0704-binary-search/solution.js) | Easy |
 | 1295 | [Find Numbers with Even Number of Digits](leetcode/arrays/1295-find-numbers-with-even-number-of-digits) | Arrays | [TypeScript](leetcode/arrays/1295-find-numbers-with-even-number-of-digits/solution.ts) · [JavaScript](leetcode/arrays/1295-find-numbers-with-even-number-of-digits/solution.js) | Easy |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](leetcode/arrays/1351-count-negative-numbers-in-a-sorted-matrix) | Arrays | [TypeScript](leetcode/arrays/1351-count-negative-numbers-in-a-sorted-matrix/solution.ts) · [JavaScript](leetcode/arrays/1351-count-negative-numbers-in-a-sorted-matrix/solution.js) | Easy |
