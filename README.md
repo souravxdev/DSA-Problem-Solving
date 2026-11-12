@@ -8,7 +8,7 @@ My daily journey of learning **Data Structures, Algorithms and Problem Solving**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-25-blue?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-26-blue?style=flat-square)
 ![Days](https://img.shields.io/badge/Day-10-orange?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/souravxdev/DSA-Problem-Solving?style=flat-square)
 
@@ -27,9 +27,9 @@ I practise problem solving every day and document each problem with its statemen
 | [Basics](problems/basics) | 6 |
 | [Arrays](problems/arrays) | 6 |
 | [Math](problems/math) | 3 |
-| [Two Pointers](problems/two-pointers) | 1 |
+| [Two Pointers](problems/two-pointers) | 2 |
 | [LeetCode](leetcode) | 9 |
-| **Total** | **25** |
+| **Total** | **26** |
 
 See the day-by-day log in [PROGRESS.md](PROGRESS.md).
 
@@ -70,6 +70,7 @@ See the day-by-day log in [PROGRESS.md](PROGRESS.md).
 | # | Problem | Solutions | Difficulty |
 |---|---------|-----------|:----------:|
 | 01 | [Remove Duplicates from Sorted Array](problems/two-pointers/01-remove-duplicates-from-sorted-array) | [TypeScript](problems/two-pointers/01-remove-duplicates-from-sorted-array/solution.ts) · [JavaScript](problems/two-pointers/01-remove-duplicates-from-sorted-array/solution.js) | Easy |
+| 02 | [Remove Element](problems/two-pointers/02-remove-element) | [TypeScript](problems/two-pointers/02-remove-element/solution.ts) · [JavaScript](problems/two-pointers/02-remove-element/solution.js) | Easy |
 
 ### LeetCode
 

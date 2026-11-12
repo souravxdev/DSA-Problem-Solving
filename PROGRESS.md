@@ -11,4 +11,4 @@
 | 7 | 2026-11-06 | Started [math](problems/math): count digits of an integer (while loop, divide by 10). LeetCode 1295 Find Numbers with Even Number of Digits |
 | 8 | 2026-11-07 | [Math](problems/math): palindrome number (reverse digits with % 10 and Math.floor), reverse integer (32-bit overflow check). LeetCode 9 Palindrome Number, LeetCode 7 Reverse Integer (first Medium) |
 | 9 | 2026-11-10 | Learned [time and space complexity](notes/fundamentals/01-time-and-space-complexity) (O(1) to O(n!), best/average/worst case, linear vs binary search, space complexity). Took a 6-question quiz: 5/6. LeetCode 704 Binary Search |
-| 10 | 2026-11-12 | Started [two pointers](problems/two-pointers): remove duplicates from sorted array (in place, slow/fast pointers). LeetCode 26 Remove Duplicates from Sorted Array |
+| 10 | 2026-11-12 | Started [two pointers](problems/two-pointers): remove duplicates from sorted array (in place, slow/fast pointers), remove element. LeetCode 26 Remove Duplicates from Sorted Array |
