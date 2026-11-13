@@ -8,7 +8,7 @@ My daily journey of learning **Data Structures, Algorithms and Problem Solving**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-30-blue?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-31-blue?style=flat-square)
 ![Days](https://img.shields.io/badge/Day-11-orange?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/souravxdev/DSA-Problem-Solving?style=flat-square)
 
@@ -28,8 +28,8 @@ I practise problem solving every day and document each problem with its statemen
 | [Arrays](problems/arrays/README.md) | 6 |
 | [Math](problems/math/README.md) | 3 |
 | [Two Pointers](problems/two-pointers/README.md) | 3 |
-| [LeetCode](leetcode/README.md) | 12 |
-| **Total** | **30** |
+| [LeetCode](leetcode/README.md) | 13 |
+| **Total** | **31** |
 
 Each topic links to its own list of problems with solutions. See the day-by-day log in [PROGRESS.md](PROGRESS.md).
 
