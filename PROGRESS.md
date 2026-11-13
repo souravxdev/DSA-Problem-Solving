@@ -12,3 +12,4 @@
 | 8 | 2026-11-07 | [Math](problems/math): palindrome number (reverse digits with % 10 and Math.floor), reverse integer (32-bit overflow check). LeetCode 9 Palindrome Number, LeetCode 7 Reverse Integer (first Medium) |
 | 9 | 2026-11-10 | Learned [time and space complexity](notes/fundamentals/01-time-and-space-complexity) (O(1) to O(n!), best/average/worst case, linear vs binary search, space complexity). Took a 6-question quiz: 5/6. LeetCode 704 Binary Search |
 | 10 | 2026-11-12 | Started [two pointers](problems/two-pointers): remove duplicates from sorted array (in place, slow/fast pointers), remove element. LeetCode 26 Remove Duplicates from Sorted Array, LeetCode 27 Remove Element. Filed LeetCode 2520 Count the Digits That Divide a Number and LeetCode 2652 Sum Multiples (solved in Java on 2026-08-22) |
+| 11 | 2026-11-13 | [Two pointers](problems/two-pointers): reverse string (in place, pointers from both ends) |
