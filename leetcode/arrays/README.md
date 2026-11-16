@@ -2,6 +2,7 @@
 
 | # | Problem | Solutions | Difficulty |
 |---|---------|-----------|:----------:|
+| 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock) | [TS](0121-best-time-to-buy-and-sell-stock/solution.ts) · [JS](0121-best-time-to-buy-and-sell-stock/solution.js) | Easy |
 | 0414 | [Third Maximum Number](0414-third-maximum-number) | [TS](0414-third-maximum-number/solution.ts) · [JS](0414-third-maximum-number/solution.js) | Easy |
 | 0747 | [Largest Number At Least Twice of Others](0747-largest-number-at-least-twice-of-others) | [TS](0747-largest-number-at-least-twice-of-others/solution.ts) · [JS](0747-largest-number-at-least-twice-of-others/solution.js) | Easy |
 | 1295 | [Find Numbers with Even Number of Digits](1295-find-numbers-with-even-number-of-digits) | [TS](1295-find-numbers-with-even-number-of-digits/solution.ts) · [JS](1295-find-numbers-with-even-number-of-digits/solution.js) | Easy |
